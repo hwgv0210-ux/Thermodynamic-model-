@@ -71,3 +71,6 @@ Suniv=Ssys+Ssurr
 CENGAGE普通化學課本
 https://zh.wikipedia.org/zh-tw/%E7%83%AD%E5%8A%9B%E5%AD%A6
 https://case.ntu.edu.tw/CASTUDIO/Files/speech/Ref/CS0099S1B02_10.pdf
+
+6.程式修改或增強的內容
+一開始的程式不管是哪種過程，皆會統一詢問初溫、末溫、初體積、末體積。但在後來試用時，重新修改成依照過程所要求的性質詢問，使程式依照不同過程產生不同詢問方式。
